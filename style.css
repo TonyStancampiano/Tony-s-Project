@@ -1,0 +1,113 @@
+h1 {
+    color: cadetblue;
+    font-weight: 100;
+    font-family: monospace;
+    font-size: 100px;
+   
+}
+
+h2 { color: crimson;
+     font-weight: 100;
+   font-family: 'Modak', cursive;
+    font-size:80px;
+     }
+h3{
+     color: green;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 60px;   
+}
+
+h4{ color: rebeccapurple;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 40px;
+   }
+
+h5{color: peru;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 50px;
+    }
+
+h7{color: magenta;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 62px;}
+
+h8{color:goldenrod;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 70px;}
+
+h9{color: lightblue;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 90px;}
+
+iframe{ padding: 40px;
+        border: 10px solid green;
+    
+}
+
+a:link{color:silver;
+    font-weight: 100;
+    font-family: fantasy;
+    font-size: 80px;}:hover{ color: chocolate}
+
+body{ background-image: url(giphyyachty.gif)}
+
+
+div {
+    width: auto;
+    height: auto;
+    background-color: firebrick;
+    margin: 100px;
+    border: solid 10px color: black;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 50px;
+}
+
+.specialdiv{
+            width: auto;        
+            border-radius: 50px;
+            height: auto;
+            position: absolute;
+            
+}
+
+.cooldiv{ background-color: aqua;
+                width: 30px;        
+            border-radius: 24px;
+            height: 50px;
+    }
+
+.yamomma{ border-radius: 20px;
+            border: 10Px black;                  }
+
+p{
+    font-family: sans-serif;
+    background-color: aqua;
+    color: coral;
+    
+}
+
+.container{ background-color: antiquewhite;
+            height: auto;
+    width:auto;}
+ul{
+    list-style: none;}
+
+li{ font-size: 40px;
+    color: darkgreen;}
+    
+
+address{ font-size: 30px;
+            background-color: blue;
+    color: crimson;}
+        
+
+#balls {    font-size: 30px; 
+    text-align: center;
+    position: fixed}
